@@ -1,5 +1,3 @@
-import javax.swing.plaf.synth.SynthEditorPaneUI;
-
 public class Phrase_O_Matic {
     public static void main(String[] args) {
 
